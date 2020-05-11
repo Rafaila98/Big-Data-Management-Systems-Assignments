@@ -1,0 +1,11 @@
+{
+   "@Repository": "RedisAssignment",
+   "datasource": {
+      "@name": "CSVdatasource",
+      "@id": "1",
+      "@type": "csv",
+      "filename": "sample.csv",
+      "path": ".",
+      "delimiter": ","
+   }
+}

@@ -1,0 +1,13 @@
+{
+	"@Repository": "RedisAssignment",
+	"datasource":{ 	
+		"dbconnect": {
+			"host": "localhost",
+			"username": "ruser",
+			"password": "password",
+			"database": "DB4Redis"
+			},
+		"name": "DBdatasource", 
+		"id": "1",
+		"type": "db"
+}
