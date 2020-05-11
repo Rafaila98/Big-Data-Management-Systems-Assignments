@@ -1,0 +1,11 @@
+{
+   "@Repository": "RedisAssignment",
+   "datasource": {
+      "@name": "EXCELdatasource",
+      "@id": "2",
+      "@type": "excel",
+      "filename": "sample.xlsx",
+      "path": "."
+   }
+}
+	
