@@ -1,7 +1,5 @@
 ## Azure Stream Analytics Assignment 
 
-### Instructions
-
 You are going to use Azure Stream Analytics to process a data stream of ATM transactions and answer stream queries. The schema of the stream is: *(ATMCode, CardNumber, Type, Amount)*
 
 1.  Create a trial account at: https://azure.microsoft.com/en-us/
